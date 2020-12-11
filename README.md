@@ -1,4 +1,4 @@
-echo "# saurav100-coder.github.io" >> README.md
+echo "# saurav100-coder" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
